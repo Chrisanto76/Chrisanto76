@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Chrisanto76's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisanto76&show_icons=true&text_color=2e1437&bg_color=DEG,e6dada,274046&icon_color=780206&border_radius=12)](https://github.com/Chrisanto76/github-readme-stats)
 
-[![Chrisanto76's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisanto76&layout=compact&bg_color=DEG,f46b45,eea849&border_radius=12)](https://github.com/Chrisanto76/github-readme-stats)
+[![Chrisanto76's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisanto76&layout=compact&bg_color=DEG,5d4157,a8caba&border_radius=12)](https://github.com/Chrisanto76/github-readme-stats)
