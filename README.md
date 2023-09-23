@@ -1,8 +1,8 @@
-### Hi there 👋
-### Here is my personal github profile, with my 42Paris cursus work.
-### 🌱 I’ve graduate my ZIP cursus exam on march 2023.
-### 🔭 I’m currently working on REACTJS, and DOCKER
-### 👯 I’m looking to collaborate on free lance frontend projects
+## Hi there 👋
+## Here is my personal github profile, with my 42Paris cursus work.
+##  I’ve graduate my ZIP cursus exam on march 2023.
+##  I’m currently working on REACTJS, and DOCKER
+## 👯 I’m looking to collaborate on free lance frontend projects
 
 
 
